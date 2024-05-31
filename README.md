@@ -8,5 +8,5 @@ brew install heroesofcode/taps/<tap>
 
 ### Supported libraries
 
-[xrun](https://github.com/heroesofcode/xrun)
+[xrun](https://github.com/heroesofcode/xrun) <br>
 [SwiftFileTools](https://github.com/heroesofcode/SwiftFileTools)
