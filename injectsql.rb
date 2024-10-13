@@ -1,4 +1,4 @@
-class Xrun < Formula
+class Injectsql < Formula
   desc "Command Line Tools to check for SQL Injection vulnerability."
   homepage "https://github.com/heroesofcode/inject-sql"
   url "https://github.com/heroesofcode/inject-sql/releases/download/0.1.0/injectql.tar.gz"
