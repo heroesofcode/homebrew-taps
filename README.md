@@ -10,5 +10,5 @@ brew install heroesofcode/taps/<tap>
 
 [xrun](https://github.com/heroesofcode/xrun) <br>
 [SwiftFileTools](https://github.com/heroesofcode/SwiftFileTools) <br>
-[injectsql](https://github.com/heroesofcode/inject-sql)
+[injectsql](https://github.com/heroesofcode/inject-sql) <br>
 [spm-swift-package](https://github.com/heroesofcode/spm-swift-package)
